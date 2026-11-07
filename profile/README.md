@@ -11,14 +11,6 @@
 
 <br>
 
-<h3 align="center">
-  <b>Theorem.</b> <i>The bottleneck in AI is no longer the model.<br>It is the gap between the model and the work.</i>
-  <br><br>
-  <b>Proof.</b> In progress.
-</h3>
-
-<br>
-
 <p align="center">
   Mnemosyne Research Labs is an applied AI research lab in Canada.<br>
   We publish what we find as we build.
